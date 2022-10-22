@@ -1,3 +1,4 @@
+[README.md](https://github.com/JohanPP24/Laporan_Praktikum_1/files/9843388/README.md)
 Nama  : Johan Putra Pradana
 
 NIM   : 312110314
