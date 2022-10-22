@@ -1,4 +1,3 @@
-[README.md](https://github.com/JohanPP24/Laporan_Praktikum_1/files/9843388/README.md)
 Nama  : Johan Putra Pradana
 
 NIM   : 312110314
@@ -15,23 +14,23 @@ Tugas : Pemrograman Orientasi Objek
 
 Dalam mendeklarasikan clas dengan atribut nama, jenis kelamin dan umur kita memerlukan tipe data String dan Integer. Berikut kode tag programnya :
 
-![gambar1](screenshoot/gambar1.png)
+![image.png]({screenshoot/gambar1.png})
 
 2. Membuat dua buah objek dari Class Person bernama Anton dan Riko
 
 Selanjutnya kita membuat 2 buah objek dalam kelas Person, objeknya yaitu Saya dan Dia. Berikut kode tag programnya :
 
-![gambar](screenshoot/gambar2.png)
+![image.png]({screenshoot/gambar2.png})
 
 Setelah membuat objek lalu kita membuat atribut dalam objek. Atributnya yaitu nama, jenis kelamin dan umur. Untuk nama dan jenis kelamin kita menggunakan tipe data string sedangkan umur  kita gunakan tipe data Integer, berikut kode tag programnya :
 
-![gambar](screenshoot/gambar3.png)
+![image.png]({screenshoot/gambar3.png})
 
 Tampilan keseluruhan kode tag program untuk CLASS_PERSON 
-![gambar](screenshoot/gambar4.png)
+![image.png]({screenshoot/gambar4.png})
 
 Berikut tampilan output membuat dua buah objek dalam Class Person
-![gambar](screenshoot/gambar5.png)
+![image.png]({screenshoot/gambar5.png})
 
 TEKNIK INFORMATIKA
 
